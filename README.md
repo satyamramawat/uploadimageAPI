@@ -1,8 +1,7 @@
 # uploadimageAPI
 Uploading Image API in NODE.js
 
-Technologies used NODE.jS, MONGODB and HTML<ejs engine>
-
+<b>Technologies used NODE.jS, MONGODB and HTML</b>
 How to use
 
 Step 1: Download the folder.
