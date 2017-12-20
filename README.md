@@ -1,19 +1,20 @@
 # uploadimageAPI
 Uploading Image API in NODE.js
 
-<b>Technologies used NODE.jS, MONGODB and HTML</b>
-How to use
+<b>Technologies used NODE.jS, MONGODB and HTML(ejs engine)</b>
 
-Step 1: Download the folder.
+<u>How to use</u>
 
-Step 2: Get into "uploadimageAPI" folder through your terminal.
+<b>Step 1:</b> Download the folder.
 
-Step 3: Run npm install.
+<b>Step 2:</b> Get into "uploadimageAPI" folder through your terminal.
 
-Step 4: Run node App.js
+<b>Step 3:</b> Run npm install.
+
+<b>Step 4:</b> Run node App.js
 
 
-Step 5: If "module not found" error occurs, than kindly install the module and save it in your dependencies, like:
+<b>Step 5:</b> If "module not found" error occurs, than kindly install the module and save it in your dependencies, like:
 
  
         npm install express --save ,
