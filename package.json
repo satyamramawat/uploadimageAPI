@@ -1,0 +1,25 @@
+{
+  "name": "imageuploadapi",
+  "version": "1.1.0",
+  "description": "simple api app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" &amp;&amp; exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "^0.15.0",
+    "ejs": "^2.5.7",
+    "express": "*",
+    "mongoose": "*",
+    "multer": "*",
+    "path": "*"
+  },
+  "author": "Satyam Ramawat",
+  "license": "ISC",
+  "devDependencies": {},
+  "keywords": [
+    "nodejs",
+    "imageupload"
+  ]
+}
